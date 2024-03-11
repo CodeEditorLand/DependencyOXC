@@ -1,0 +1,11 @@
+[submodule "Cargo"]
+path = Cargo
+url = ssh://git@github.com/CodeEditorLand/FoundationOXCCargo.git
+
+[submodule "NPM"]
+path = NPM
+url = ssh://git@github.com/CodeEditorLand/FoundationOXCNPM.git
+
+[submodule "Service"]
+path = Service
+url = ssh://git@github.com/CodeEditorLand/FoundationOXCService.git
