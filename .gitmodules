@@ -5,6 +5,7 @@ url = ssh://git@github.com/CodeEditorLand/DependencyOXCCargo.git
 [submodule "NPM"]
 path = NPM
 url = ssh://git@github.com/CodeEditorLand/DependencyOXCNPM.git
+
 [submodule "Dependency"]
-	path = Dependency
-	url = ssh://git@github.com/CodeEditorLand/DependencyOXCDependency.git
+path = Dependency
+url = ssh://git@github.com/CodeEditorLand/DependencyOXCDependency.git
