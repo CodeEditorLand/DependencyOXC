@@ -1,9 +1,11 @@
-[submodule "Dependency"]
-	path = Dependency
-	url = ssh://git@github.com/CodeEditorLand/DependencyOXCDependency.git
-[submodule "NPM"]
-	path = NPM
-	url = ssh://git@github.com/CodeEditorLand/DependencyOXCNPM.git
 [submodule "Cargo"]
-	path = Cargo
-	url = ssh://git@github.com/CodeEditorLand/DependencyOXCCargo.git
+path = Cargo
+url = ssh://git@github.com/CodeEditorLand/DependencyOXCCargo.git
+
+[submodule "NPM"]
+path = NPM
+url = ssh://git@github.com/CodeEditorLand/DependencyOXCNPM.git
+
+[submodule "Dependency"]
+path = Dependency
+url = ssh://git@github.com/CodeEditorLand/DependencyOXCDependency.git
