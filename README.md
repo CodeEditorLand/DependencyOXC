@@ -1,9 +1,9 @@
 <a href="HTTPS://app.fossa.com/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft?ref=badge_small"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft.svg?type=small" alt="FOSSA Status"></a><table><tr>
 
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.LTD/Image/GitHub/Cargo.png">
-<source media="(prefers-color-scheme: light)" srcset="https://PlayForm.LTD/Image/GitHub/Cargo.png">
-<img width="28" alt="" src="https://PlayForm.LTD/Image/GitHub/Cargo.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.Cloud/Image/GitHub/Cargo.png">
+<source media="(prefers-color-scheme: light)" srcset="https://PlayForm.Cloud/Image/GitHub/Cargo.png">
+<img width="28" alt="" src="https://PlayForm.Cloud/Image/GitHub/Cargo.png">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Cargo
 </h3> </td> </tr></table><table><tr> <td colspan="1"> <h3 align="center">
 <picture> </picture> 🖇️ </h3> </td> <td colspan="3" valign="top">
@@ -298,9 +298,9 @@
 </picture>
 </a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/UniCodeIDStart" target="_blank"><b>Determine whether characters have the ID_Start or ID_Continue properties</b></a></td></tr></table><table><tr>
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.LTD/Image/GitHub/NPM.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://PlayForm.LTD/Image/GitHub/NPM.svg">
-<img width="28" alt="" src="https://PlayForm.LTD/Image/GitHub/NPM.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.Cloud/Image/GitHub/NPM.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://PlayForm.Cloud/Image/GitHub/NPM.svg">
+<img width="28" alt="" src="https://PlayForm.Cloud/Image/GitHub/NPM.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> NPM
 </h3> </td>
 </tr></table><a href="HTTPS://fossa.app/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft?ref=badge_large&issueType=license"><img src="https://fossa.app/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft.svg?type=large&issueType=license" alt="FOSSA Status"></a>
