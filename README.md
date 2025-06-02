@@ -1,4 +1,4 @@
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft?ref=badge_small"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft.svg?type=small" alt="FOSSA Status"></a><table><tr>
+<table><tr>
 
 <td colspan="1"> <h3 align="center"> <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.Cloud/Image/GitHub/Cargo.png">
@@ -303,7 +303,7 @@
 <img width="28" alt="" src="https://PlayForm.Cloud/Image/GitHub/NPM.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> NPM
 </h3> </td>
-</tr></table><a href="https://fossa.app/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft?ref=badge_large&issueType=license"><img src="https://fossa.app/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft.svg?type=large&issueType=license" alt="FOSSA Status"></a>
+</tr></table>
 
 ## Funding
 
